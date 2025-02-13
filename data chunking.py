@@ -6,6 +6,8 @@ import time
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
+import request 
+import json 
 import json
 
 # Function to read and print Leaf name and Leaf Link from a CSV file
